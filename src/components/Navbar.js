@@ -17,7 +17,7 @@ class Navbar extends Component {
         <a
           className="navbar-brand rounded"
           target="_blank"
-          href="https://github.com/xternet/dapp_template_v2"
+          ///href="https://github.com/xternet/dapp_template_v2"
           style={{color: "#55FF55", border: "1mm ridge #55FF55" }}
           rel="noopener noreferrer"
         >
